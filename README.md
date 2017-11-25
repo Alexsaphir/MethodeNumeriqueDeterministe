@@ -1,1 +1,1 @@
-# MethodeNumerqueDeterministe
+# Méthode Numérique Déterministe
